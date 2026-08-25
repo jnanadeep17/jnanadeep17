@@ -4,7 +4,7 @@
     <a href="https://jnanadeep.vercel.app/">Portfolio</a> • 
     <a href="https://tryhackme.com/p/JDx17/">Tryhackme</a> • 
     <a href="mailto:jnanadeepr2005@gmail.com">E-Mail</a> • 
-    <a href="https://linkedin.com/in/your-profile">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/jnanadeep-r-3b924b384/">LinkedIn</a>
   </p>
 </div>
 
