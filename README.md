@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-<p style="font-family: monospace; font-style: italic; color: #888;">
+<p>
   ⋯ Time is a fake concept. ⋯
 </p>:
 </div>
