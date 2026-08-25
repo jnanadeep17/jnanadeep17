@@ -49,11 +49,11 @@
 
 
 <div align="left">
-  <img src="./assets/nyan-cat.gif" width="120" alt="nyan-cat" />
+  <img src="./assets/nyan-cat.gif" width="80" alt="nyan-cat" />
 </div>
 
 <div align="center">
-  <h2 style="font-family: 'Brush Script MT', 'Lucida Handwriting', cursive; font-style: italic; font-weight: normal; letter-spacing: 1px; color: #888;">
+<p style="font-family: monospace; font-style: italic; color: #888;">
   ⋯ Time is a fake concept. ⋯
-  </h2>
+</p>:
 </div>
