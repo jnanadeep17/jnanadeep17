@@ -55,5 +55,5 @@
 <div align="center">
 <p>
   ⋯ Time is a fake concept. ⋯
-</p>:
+</p>
 </div>
